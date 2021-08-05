@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: brown;
+    padding: 17px;
+    display: flex; 
+    height: 300px;
+    flex-flow: column-reverse wrap-reverse;
+
+    
+}
+
+.item{
+    background-color: coral;
+    padding: 10px;
+    margin: 7px;
+    /* flex-direction: row-reverse; */
+    
+}
